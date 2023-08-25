@@ -6,7 +6,7 @@ Flutter project.
 
 Simple Quiz app using  
   - Flutter
-  - Firebase
+  - Provider
 
 
 ## Demo
